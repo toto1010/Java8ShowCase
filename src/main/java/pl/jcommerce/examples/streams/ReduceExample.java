@@ -8,7 +8,7 @@ import pl.jcommerce.examples.model.DevelopersRepository;
 /**
  * Example with reduce() method
  *
- * @author Michal Orlowski
+ * @author toto
  */
 public class ReduceExample {
 

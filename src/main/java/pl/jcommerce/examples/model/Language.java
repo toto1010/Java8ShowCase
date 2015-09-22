@@ -3,7 +3,7 @@ package pl.jcommerce.examples.model;
 /**
  * Programming languages enum
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public enum Language {

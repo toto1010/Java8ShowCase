@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Functional programming presentation demo
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class FunctionalProgrammingExample {

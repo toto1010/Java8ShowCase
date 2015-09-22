@@ -12,7 +12,7 @@ import pl.jcommerce.examples.model.Developer;
 /**
  * Predicates example
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class PredicateExample {

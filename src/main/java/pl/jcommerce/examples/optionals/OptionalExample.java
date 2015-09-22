@@ -3,7 +3,7 @@ package pl.jcommerce.examples.optionals;
 /**
  * Example with optional
  *
- * @author Michal Orlowski
+ * @author toto
  */
 public class OptionalExample {
 

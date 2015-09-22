@@ -9,7 +9,7 @@ import java.util.*;
 /**
  * Java 8 Date API exercises
  *
- * @author Michal Orlowski
+ * @author toto
  */
 public class DateApiExercise {
 

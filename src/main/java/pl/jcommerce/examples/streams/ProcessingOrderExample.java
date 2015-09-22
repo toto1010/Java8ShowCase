@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 /**
  * This example shows how stream operations order is processed
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class ProcessingOrderExample {

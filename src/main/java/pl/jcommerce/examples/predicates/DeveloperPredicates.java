@@ -11,7 +11,7 @@ import pl.jcommerce.examples.model.Language;
 /**
  * Developer predicates
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class DeveloperPredicates {

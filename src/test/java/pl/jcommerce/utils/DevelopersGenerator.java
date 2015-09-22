@@ -9,7 +9,7 @@ import pl.jcommerce.examples.model.Language;
 /**
  * Developers POJO generator
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class DevelopersGenerator {	

@@ -10,7 +10,7 @@ import pl.jcommerce.examples.model.Language;
 /**
  * Simple list filtering example using streams
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class SimpleListFilterExample {

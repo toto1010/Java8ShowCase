@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * Sorting in Java 8 practice examples
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class SortingExample {

@@ -13,7 +13,7 @@ import pl.jcommerce.utils.DevelopersGenerator;
 
 /**
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class SimpleListFilterExampleTest {

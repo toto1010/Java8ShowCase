@@ -10,7 +10,7 @@ import pl.jcommerce.examples.model.DevelopersRepository;
 /**
  * Examples with flatMap() exercises
  *
- * @author Michal Orlowski
+ * @author toto
  */
 public class FlatMapExample {
 

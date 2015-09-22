@@ -17,7 +17,7 @@ import static pl.jcommerce.examples.model.Language.JAVA;
 /**
  * Exercies with integer fields.
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class CollectorsExercise {

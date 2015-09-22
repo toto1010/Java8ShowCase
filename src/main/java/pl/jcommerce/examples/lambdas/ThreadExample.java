@@ -3,7 +3,7 @@ package pl.jcommerce.examples.lambdas;
 /**
  * Simple thread example
  *
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class ThreadExample {

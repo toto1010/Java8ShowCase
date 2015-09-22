@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Developer POJO representation
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class Developer {

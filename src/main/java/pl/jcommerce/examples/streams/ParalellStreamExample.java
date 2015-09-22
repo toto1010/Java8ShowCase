@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class ParalellStreamExample {

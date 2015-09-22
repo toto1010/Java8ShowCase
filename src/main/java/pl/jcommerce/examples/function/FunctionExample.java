@@ -9,7 +9,7 @@ import java.util.function.Function;
 /**
  * Funtions example
  *
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class FunctionExample {

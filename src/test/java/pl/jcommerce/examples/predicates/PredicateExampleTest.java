@@ -17,7 +17,7 @@ import pl.jcommerce.examples.model.Developer;
 
 /**
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class PredicateExampleTest {

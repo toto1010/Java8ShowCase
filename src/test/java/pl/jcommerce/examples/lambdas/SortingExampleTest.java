@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  * 
- * @author Michal Orlowski
+ * @author toto
  *
  */
 public class SortingExampleTest {
